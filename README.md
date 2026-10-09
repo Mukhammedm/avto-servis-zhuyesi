@@ -33,7 +33,7 @@
 
 ### 1. Репозиторийді клондау:
 ```bash
-git clone [https://github.com/Mukhammedm/avto-servis-zhuyesi.git](https://github.com/Mukhammedm/avto-servis-zhuyesi.git)
+git clone https://github.com/Mukhammedm/avto-servis-zhuyesi.git
 cd avto-servis-zhuyesi
 pip install -r requirements.txt
 python manage.py migrate
